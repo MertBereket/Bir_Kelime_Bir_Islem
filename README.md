@@ -1,0 +1,1 @@
+# Bir_Kelime_Bir_Islem
