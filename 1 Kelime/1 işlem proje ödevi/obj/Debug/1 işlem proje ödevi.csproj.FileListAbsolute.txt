@@ -1,0 +1,6 @@
+D:\c#\1 işlem proje ödevi\1 işlem proje ödevi\bin\Debug\1 işlem proje ödevi.exe.config
+D:\c#\1 işlem proje ödevi\1 işlem proje ödevi\bin\Debug\1 işlem proje ödevi.exe
+D:\c#\1 işlem proje ödevi\1 işlem proje ödevi\bin\Debug\1 işlem proje ödevi.pdb
+D:\c#\1 işlem proje ödevi\1 işlem proje ödevi\obj\Debug\1 işlem proje ödevi.csprojAssemblyReference.cache
+D:\c#\1 işlem proje ödevi\1 işlem proje ödevi\obj\Debug\1 işlem proje ödevi.exe
+D:\c#\1 işlem proje ödevi\1 işlem proje ödevi\obj\Debug\1 işlem proje ödevi.pdb
