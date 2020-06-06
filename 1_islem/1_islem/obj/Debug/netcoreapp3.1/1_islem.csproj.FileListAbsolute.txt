@@ -1,0 +1,13 @@
+C:\Users\MERT\source\repos\1_islem\1_islem\bin\Debug\netcoreapp3.1\1_islem.exe
+C:\Users\MERT\source\repos\1_islem\1_islem\bin\Debug\netcoreapp3.1\1_islem.deps.json
+C:\Users\MERT\source\repos\1_islem\1_islem\bin\Debug\netcoreapp3.1\1_islem.runtimeconfig.json
+C:\Users\MERT\source\repos\1_islem\1_islem\bin\Debug\netcoreapp3.1\1_islem.runtimeconfig.dev.json
+C:\Users\MERT\source\repos\1_islem\1_islem\bin\Debug\netcoreapp3.1\1_islem.dll
+C:\Users\MERT\source\repos\1_islem\1_islem\bin\Debug\netcoreapp3.1\1_islem.pdb
+C:\Users\MERT\source\repos\1_islem\1_islem\obj\Debug\netcoreapp3.1\1_islem.csprojAssemblyReference.cache
+C:\Users\MERT\source\repos\1_islem\1_islem\obj\Debug\netcoreapp3.1\1_islem.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\1_islem\1_islem\obj\Debug\netcoreapp3.1\1_islem.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\1_islem\1_islem\obj\Debug\netcoreapp3.1\1_islem.AssemblyInfo.cs
+C:\Users\MERT\source\repos\1_islem\1_islem\obj\Debug\netcoreapp3.1\1_islem.dll
+C:\Users\MERT\source\repos\1_islem\1_islem\obj\Debug\netcoreapp3.1\1_islem.pdb
+C:\Users\MERT\source\repos\1_islem\1_islem\obj\Debug\netcoreapp3.1\1_islem.genruntimeconfig.cache
